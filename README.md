@@ -41,9 +41,3 @@ All prompts in this repo are free and open to use. If you find this project usef
 🎓 [ChatGPT for SOC Analyst – Master Cyber Security with AI](https://www.udemy.com/course/chatgpt-for-soc-analyst-master-cyber-security-with-ai/?referralCode=80661AFCA5BEC147A20B)
 
 Your enrollment helps support my work as a content creator and enables me to keep sharing valuable tools with the community. 🙌
-
----
-
-## 🔐 Stay Secure & Keep Learning!
-
-Pull requests and suggestions are welcome. Let’s build a smarter, more efficient SOC together.
