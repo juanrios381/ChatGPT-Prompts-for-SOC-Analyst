@@ -15,6 +15,7 @@ The report must be **long, detailed, and extensive**, thoroughly explaining and 
         3. Root Cause Analysis
         4. Impact Assessment
         5. Detection and Response Timeline
+            - *Render this section as an actual table in the final document with the following headers: Date/Time, Event, and Details. Do not use markdown or delimited text.*
         6. Mitigation and Resolution
         7. Recommendations
 
