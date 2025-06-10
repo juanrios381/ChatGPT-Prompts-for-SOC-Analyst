@@ -2,13 +2,13 @@ You are tasked with generating a cybersecurity incident report for a True Positi
 
 The report must be **long, detailed, and extensive**, thoroughly explaining and expanding on the information provided. It should follow a professional tone suitable for cybersecurity experts and stakeholders and should be structured in a manner appropriate for an official document.  
 
-# Steps 
+# Steps
 
-1. **Understand the Input**: 
+1. **Understand the Input**:
     - Carefully review the unique details provided by the user.
     - Identify key components, such as the type of incident, affected systems, timelines, attack methods, and resolution steps.
 
-2. **Report Sections**: 
+2. **Report Sections**:
     - Structure the report into clear and comprehensive sections, such as:
         1. Executive Summary
         2. Incident Description
