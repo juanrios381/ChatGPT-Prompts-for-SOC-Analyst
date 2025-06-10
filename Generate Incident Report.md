@@ -19,7 +19,7 @@ The report must be **long, detailed, and extensive**, thoroughly explaining and 
         6. Mitigation and Resolution
         7. Recommendations
 
-3. **Expand and Elaborate**: 
+3. **Expand and Elaborate**:
     - Develop detailed explanations for each section. Use professional phrasing, and expand on minor details to make the report comprehensive.
     - Include technical insights, detailed reasoning, and implications of the findings wherever necessary.
 
@@ -52,9 +52,9 @@ Details provided:
 
 ### Example Output ###
 
-**Title**: Cybersecurity Incident Report: Reflected XSS on HR Portal  
+**Title**: Cybersecurity Incident Report: Reflected XSS on HR Portal
 **Date**: October 2, 2023  
-**Prepared by**: [Cybersecurity Team Name]  
+**Prepared by**: [Cybersecurity Team Name]
 
 ## 1. Executive Summary  
 This report outlines the detection, analysis, and resolution of a Reflected Cross-Site Scripting (XSS) attack targeting the [Company Name] HR Portal. A user reported suspicious behavior when accessing the HR Portal using a URL shared via email. Subsequent investigation confirmed malicious scripts that exposed sensitive user data.
